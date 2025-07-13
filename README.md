@@ -30,7 +30,8 @@ Clean and analyze train  data (Titanic - Machine Learning from Disaster).
 - Pandas
 - Jupyter Notebook
 - NumPy
-- Matplotlib / Seaborn (if used)
+- Matplotlib
+- Seaborn 
 
 
 
