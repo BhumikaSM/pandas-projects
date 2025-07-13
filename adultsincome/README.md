@@ -5,8 +5,16 @@ Explores a census income dataset to analyze patterns in education, age, occupati
 
 ## 📊 Key Analysis
 - Handling categorical features
-- Grouping by occupation, education
 - Income class distribution
+- gender income distribution
+- changing datatype
+- Checking Null values
+- Replacing null values
+- Random sampling
+- Checking and droping duplicates
+- Univariate Analysis
+- Bivariate Analysis
+- using histogram,heatmap,countplot,boxplot to show the distibution
 
 ## 📁 Dataset
 UCI Adult Income Dataset
@@ -15,6 +23,9 @@ UCI Adult Income Dataset
 - Python
 - Pandas
 - Jupyter Notebook
+- Matplotlib
+- Seaborn
+- Numpy
 
 ## ▶️ How to Run
 Open `adultsincome.ipynb` and run the notebook.
